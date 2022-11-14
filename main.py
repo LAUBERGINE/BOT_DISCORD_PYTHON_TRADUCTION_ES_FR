@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 import os
 from random import*
 from discord.ext import commands
-from time import*
 from word import* 
 
 load_dotenv()
