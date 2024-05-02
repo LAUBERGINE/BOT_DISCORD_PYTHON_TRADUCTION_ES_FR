@@ -13,15 +13,15 @@ Practice and learn vocabulary in the form of a quiz
 
 ## Discord Screenshots
 
-![Help](https://cdn.discordapp.com/attachments/971848489480884244/1041505862721753159/image.png)
+![Help](https://cdn.eggplants.fr/img/github/e67d22a/help_e67d22a.png)
 
 For exemple :
 
-![Tes](https://cdn.discordapp.com/attachments/971848489480884244/1041506439706980462/image.png)
+![Fr](https://cdn.eggplants.fr/img/github/e67d22a/fr_e67d22a.png)
 
 or
 
-![Tes](https://cdn.discordapp.com/attachments/971848489480884244/1041507174599376937/image.png)
+![Tes](https://cdn.eggplants.fr/img/github/e67d22a/tes_e67d22a.png)
 ## Author
 
 - [@LAUBERGINE](https://www.github.com/LAUBERGINE)
